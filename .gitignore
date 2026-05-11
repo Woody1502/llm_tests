@@ -1,5 +1,4 @@
 archive/
-results/*.png
 venv/
 __pycache__/
 .ipynb_checkpoints/
